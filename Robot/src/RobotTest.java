@@ -6,6 +6,11 @@ import java.awt.image.BufferedImage;
 
 import javax.imageio.ImageIO;
 
+/**
+ * NOTE: COORDINATES ARE LOCAL TO MY SCREEN AND MAY NOT WORK FOR YOURS
+ * @author Will
+ *
+ */
 public class RobotTest {
 
 	public static void main(String[] args) throws Exception {
